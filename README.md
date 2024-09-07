@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features of HA Learning app
+Secure Authentication & Role-Based Profiles: Manage user access and profiles.
+Seamless Navigation: Utilize React Router for browsing a comprehensive course catalog.
+Interactive Content Management: upload quizzes, and assignments with Redux or Context API.
+Real-Time Communication: Integrate live classes and chat functionalities.
+Progress Tracking & Recommendations: Use personalized dashboards and AI-driven course suggestions.
+Admin Panel: Facilitate course and user management with analytics.
+Responsive & Cross-Browser Compatible: Ensure compatibility across devices and integrate with external tools like calendars.
