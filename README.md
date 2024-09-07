@@ -1,4 +1,5 @@
-Features of HA Learning app
+Features of HA Learning app:
+
 Secure Authentication & Role-Based Profiles: Manage user access and profiles.
 Seamless Navigation: Utilize React Router for browsing a comprehensive course catalog.
 Interactive Content Management: upload quizzes, and assignments with Redux or Context API.
